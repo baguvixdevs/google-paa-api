@@ -1,7 +1,8 @@
-[Google PAA API]([https://www.google.com](https://rapidapi.com/baguvixdev-CYnN2pvNO/api/google-people-also-ask-api1) "Api Link")
+[Google PAA API]
 
-[Google People Also Ask API]([https://www.google.com](https://rapidapi.com/baguvixdev-CYnN2pvNO/api/google-people-also-ask-api1] "API LINK")
-[link burada](http://google.fr "google")
+[Google People Also Ask API]
+
+[https://rapidapi.com/baguvixdev-CYnN2pvNO/api/google-people-also-ask-api1](https://rapidapi.com/baguvixdev-CYnN2pvNO/api/google-people-also-ask-api1 "GOOGLE PAA API")
 # Overview:
 
 Google People Also Ask API is a powerful tool that allows developers to access and utilize the "People Also Ask" feature from Google search results. This API enables users to extract the related questions and answers that appear in the "People Also Ask" box on Google's search engine.
