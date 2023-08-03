@@ -1,6 +1,6 @@
-# Google Paa API
+[Google PAA API]([https://www.google.com](https://rapidapi.com/baguvixdev-CYnN2pvNO/api/google-people-also-ask-api1) "Api Link")
 
-# Google People Also Ask API
+[Google People Also Ask API]([https://www.google.com](https://rapidapi.com/baguvixdev-CYnN2pvNO/api/google-people-also-ask-api1) "API LINK")
 
 # Overview:
 
